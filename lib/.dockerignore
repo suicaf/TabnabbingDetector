@@ -1,0 +1,9 @@
+.idea
+/node_modules
+npm-debug.log
+/libs
+index.html
+bower.json
+README.md
+coverage
+.github
